@@ -6,3 +6,4 @@ exec/**
 **/.DS_Store
 .ipynb_checkpoints
 **/.ipynb_checkpoints
+**/credit_card.csv
